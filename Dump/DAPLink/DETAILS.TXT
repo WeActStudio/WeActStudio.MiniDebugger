@@ -1,0 +1,19 @@
+# DAPLink Firmware - see https://daplink.io
+Build ID: v0257-18-g69ca6132 (armcc, local mods)
+Unique ID: 00000000003000433900000e4e54514aa5a5a5a597969908
+HIC ID: 97969908
+Auto Reset: 0
+Automation allowed: 1
+Overflow detection: 0
+Incompatible image detection: 0
+Page erasing: 0
+Daplink Mode: Bootloader
+Bootloader Version: 0258
+Interface Version: 0258
+Git SHA: 69ca6132b4e2c9921fd2840348a1ee84db5247c0
+Local Mods: 1
+USB Interfaces: MSD
+Bootloader CRC: 0xd3ed7440
+Interface CRC: 0xa28eca7d
+Remount count: 0
+URL: https://daplink.io
