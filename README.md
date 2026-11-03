@@ -10,7 +10,7 @@ Used to flash firmware
 - WeAct Studio Official Link
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActTC
+- github: github.com/WeActStudio
 - gitee: gitee.com/WeActStudio
 - blog: blog.weactstudio.com
 ---------------------------------------*/
