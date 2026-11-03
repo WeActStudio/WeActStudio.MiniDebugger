@@ -11,7 +11,7 @@ Used to flash firmware
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
 - github: github.com/WeActTC
-- gitee: gitee.com/WeAct-TC
-- blog: www.weact-tc.cn
+- gitee: gitee.com/WeActStudio
+- blog: blog.weactstudio.com
 ---------------------------------------*/
 ```
